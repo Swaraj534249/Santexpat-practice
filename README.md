@@ -1,3 +1,3 @@
 # Santexpat-practice
 Practice website
-completedt this website in one day
+completed this website in one day
